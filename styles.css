@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #65b7fe
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background-color: white;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.nav-link {
+    color: white;
+    margin: 5px 5px 5px 5px;
+    float: right;
+    position: relative;
+    right: 20px;
+    background-color: dodgerblue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.form-wrapper {
+    text-align: left;
+    background-color: white;
+    width: 17vw;
+    margin: 200px 40% 40% 40%;
+    padding: 25px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
+/*.masterForm {
+    margin: 0 auto;
+    height: 500px;
+}*/
+
+.buttonOutside-wrapper {
+    text-align: center;
+    background-color: dodgerblue;
+    width: 17vw;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.button-wrapper {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.iamgeLinks {
+    text-align: center;
+}
